@@ -1,0 +1,28 @@
+{
+  "name": "jef-element",
+  "version": "1.0.0",
+  "authors": [
+    "eyaka"
+  ],
+  "description": "JEF Element Mod",
+  "main": "jef_element.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "JEF",
+    "element",
+    "mod"
+  ],
+  "license": "CC-BY",
+  "homepage": "eyaka.be",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
